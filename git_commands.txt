@@ -15,4 +15,8 @@
 1)run 'git remote add origin https://github.com/*.git'
 
 2)Next run 'git remote -v'.
-  
+
+				UPLOAD YOUR WORK
+1)Run 'git commit -m "comments about the commit"'
+
+2)Run 'git push origin master' to upload your changes to the master branch. 
