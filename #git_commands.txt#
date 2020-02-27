@@ -1,0 +1,19 @@
+'GITTING' GOOD WITH GIT
+
+				SETTING UP THE REPOSITORY
+1)Make a directory somewhere on your file system specifically for the git project.
+
+2)cd into the new directory and un the command 'git init'. This sets the directory up to work
+  with git
+
+3)run the commands 'git config --global user.name "your name"' and 'git config
+  --global user.email "your email address"'. This info is used to track file changes.
+
+4)You can run 'git config --list' to display information about the repository
+
+      	      	   	  	 CONFIGURE A REMOTE REPOSITORY
+1)run 'git remote add origin https://github.com/*.git'
+
+
+2)Next run 'git remote -v'.
+  
