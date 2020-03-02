@@ -17,6 +17,8 @@
 2)Next run 'git remote -v'.
 
 				UPLOAD YOUR WORK
-1)Run 'git commit -m "comments about the commit"'
+1)Execute 'git add "filename"' to add the file to the project
 
-2)Run 'git push origin master' to upload your changes to the master branch. 
+2)Run 'git commit -m "comments about the commit"'
+
+3)Run 'git push origin master' to upload your changes to the master branch. 
